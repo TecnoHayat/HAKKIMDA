@@ -3,4 +3,4 @@ Merhaba, ben Seyit. 16 yaşında, kendi halinde bir yazılım öğrencisiyim. Ya
 
 ![Seyitin istatistikleri](https://github-readme-stats.vercel.app/api?username=TecnoHayat&show_icons=true&theme=radical)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=TecnoHayat&layout=compact&theme=tokyonight
+![Seyit's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TecnoHayat&layout=compact&theme=tokyonight)
